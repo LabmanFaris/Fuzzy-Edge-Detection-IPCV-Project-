@@ -8,3 +8,7 @@ Features
 - Comparison with Sobel and Canny edge detectors.  
 - Supports different MRI orientations: axial, coronal, sagittal.  
 - Implemented in Python using NumPy and OpenCV for image processing.
+
+
+The following are the images upon which the various edge detection algorithms have been implemented.
+<img width="1539" height="810" alt="results2" src="https://github.com/user-attachments/assets/3f183213-baff-41f2-9b48-a0f6db08b452" />
